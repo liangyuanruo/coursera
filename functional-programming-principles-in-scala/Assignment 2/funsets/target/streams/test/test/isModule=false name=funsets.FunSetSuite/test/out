@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersects contains common elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff returns set difference[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter returns elements that satisfy predicate[0m[0m

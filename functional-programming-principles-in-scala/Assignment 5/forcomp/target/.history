@@ -1,0 +1,82 @@
+test
+console
+test
+scala
+console
+test
+console
+test
+console
+test
+console
+test
+console
+test
+console
+test
+cls
+console
+test
+val abba = List(('a', 2), ('b', 2))
+console
+test
+console
+test
+    val abba = List(('a', 2), ('b', 2))
+val x = 3
+sbt
+console
+test
+def combinations(occurrences: Occurrences): List[Occurrences] = {
+    // Create list of smaller occurrences
+    val subsets = occurrences.flatMap{case (ch, num) => (1 to num).map(n => (ch, n))}
+    // Generate all combinations of occurrences
+    def helper(x: List[(Char, Int)], n: Int): List[Occurrences] = {
+      if(n<=0) x.combinations(0).toList
+      else helper(x, n-1) ++
+        x.combinations(n)
+          //filter repeats e.g. (a,1) and (a,2)
+          .filter(item => item.groupBy(_._1)
+                              .mapValues(_.size)
+                              .maxBy(_._2)._2 == 1)
+          .toList
+    }
+    List[Occurrences]() ++ helper(subsets, occurrences.length)
+    //Test code, not done yet
+    //val x = List(('a',1),('b',2),('c',3))
+    //x.flatMap{case (ch, num) => (1 to num).map(n => (ch, n))}
+    //scala> List[(Char, Int)] = List((a,1), (b,1), (b,2), (c,1), (c,2), (c,3))
+console
+test
+def subtract(x: Occurrences, y: Occurrences): Occurrences = {
+    //Tests if element y is a subset of Occurrence list x
+    def contains(x:Occurrences, y:(Char, Int)): Boolean = {
+      // Tests if element y is a subset of element x
+      def isSubset(x:(Char, Int), y:(Char, Int)): Boolean = {
+        if (y._1 == x._1 && y._2 <= x._2) true
+        else false
+      }
+      x.map(elem => isSubset(elem, y))
+        .reduce(_||_)
+    }
+    x.filter(elem => !contains(y, elem))
+console
+test
+Set(1,2,3)
+console
+test
+List((1,2),(3,4)).toMap
+console
+test
+Map(1->2)
+console
+test
+List()
+console
+test
+console
+test
+console
+test
+submit 
+submit liangyuanruo@gmail.com vJ6GpsHOj9awXm2y

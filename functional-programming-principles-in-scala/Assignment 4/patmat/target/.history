@@ -1,0 +1,35 @@
+test
+console
+test
+console
+test
+console
+scala
+console
+val x = List(('a',1),('b',2))
+console
+test
+console
+test
+console
+test
+console
+test
+console
+compile
+test
+tet
+test
+console
+test
+console
+compile
+console
+compile
+List(1,2,3).flatMap(x => x**2)
+"abc".toList
+console
+test
+submit liangyuanruo@gmail.com
+submit liangyuanruo@gmail.com sIRz9hmTpanmgyQo
+git add .

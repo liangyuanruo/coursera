@@ -1,0 +1,114 @@
+Q2
+
+10 Epochs
+Default params
+
+Final Training CE 2.537
+Final Validation CE 2.604
+Final Test CE 2.617
+
+Q3
+
+Learning rate 0.0001
+10 epochs
+Final Training CE 4.384
+Final Validation CE 4.385
+Final Test CE 4.392
+Training took 165.07 seconds
+
+Q4
+Set learning rate to zero
+Final Training CE 5.526
+Final Validation CE 5.526
+Final Test CE 5.526
+
+Q5
+Epoch 1
+Learning rate 0.001
+Final Training CE 4.431
+Final Validation CE 4.386
+Final Test CE 4.393
+Training took 15.10 seconds
+
+Learning rate 0.1
+Final Training CE 3.953
+Final Validation CE 3.302
+Final Test CE 3.303
+Training took 14.56 seconds
+
+Learning rate 10
+Final Training CE 4.706
+Final Validation CE 4.662
+Final Test CE 4.668
+Training took 15.10 seconds
+
+Q6
+Epoch 10
+Learning rate 0.001
+Final Training CE 4.379
+Final Validation CE 4.380
+Final Test CE 4.386
+Training took 159.61 seconds
+
+Learning rate 0.1
+Final Training CE 2.535
+Final Validation CE 2.605
+Final Test CE 2.613
+Training took 175.85 seconds
+
+Q7 & 8
+10 Epochs
+
+Model A: 5 dimensional embedding, 100 dimensional hidden layer 
+Final Training CE 2.810
+Final Validation CE 2.827
+Final Test CE 2.832
+Training took 138.00 seconds
+
+Model B: 50 dimensional embedding, 10 dimensional hidden layer 
+Final Training CE 3.006
+Final Validation CE 3.020
+Final Test CE 3.017
+Training took 125.36 seconds
+
+Model C: 50 dimensional embedding, 200 dimensional hidden layer 
+Final Training CE 2.537
+Final Validation CE 2.604
+Final Test CE 2.617
+
+Model D: 100 dimensional embedding, 5 dimensional hidden layer
+Final Training CE 3.259
+Final Validation CE 3.260
+Final Test CE 3.259
+Training took 134.62 seconds
+
+Q9
+5 Epochs
+Model A: Momentum = 0.0
+Final Training CE 3.987
+Final Validation CE 3.943
+Final Test CE 3.947
+Training took 76.47 seconds
+
+Model B: Momentum = 0.5
+Final Training CE 3.322
+Final Validation CE 3.251
+Final Test CE 3.249
+Training took 81.60 seconds
+
+Model C: Momentum = 0.9
+Final Training CE 2.537
+Final Validation CE 2.604
+Final Test CE 2.617
+
+Q10
+‘could’ is close to ‘should’ and ‘can’
+
+Q11
+‘percent’ is close to ‘dr.’ as both words occur rarely so embedding weights get updated very few times and remain close to their initialisation.
+
+Q12
+‘he’ is close to ‘she’ as substituting one for another may also make a sensible 4-gram
+
+Q13
+the model puts words that can be substituted for one another close together in embedding space.
