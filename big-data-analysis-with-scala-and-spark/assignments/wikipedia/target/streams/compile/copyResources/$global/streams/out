@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/wikipedia/src/main/resources/wikipedia,/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/wikipedia/target/scala-2.11/classes/wikipedia)[0m
+[0m[[0mdebug[0m] [0m	(/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/wikipedia/src/main/resources/wikipedia/wikipedia.dat,/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/wikipedia/target/scala-2.11/classes/wikipedia/wikipedia.dat)[0m
