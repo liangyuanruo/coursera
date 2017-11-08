@@ -1,2 +1,12 @@
 sbt run
 run
+test
+clear
+test
+console
+test
+scala
+val x = 5
+test
+submit
+submit liangyuanruo@gmail.com 2fyq6BaZNTNL7FCI
