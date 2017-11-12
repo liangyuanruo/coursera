@@ -1,154 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28e6a63c-6b7d-4d39-9796-ef8e220a79e2" name="Default" comment="completed Wikipedia">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24d848adb87092e03033$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24d848adb87092e03033$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24d848adb87092e03033.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24d848adb87092e03033.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$39a071361ef7366444b8$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$39a071361ef7366444b8.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$39a071361ef7366444b8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3de2f31e2f5b9144f8fc$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3de2f31e2f5b9144f8fc$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3de2f31e2f5b9144f8fc.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3de2f31e2f5b9144f8fc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6f3f9e609822874dc4bf$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6f3f9e609822874dc4bf$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6f3f9e609822874dc4bf.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$6f3f9e609822874dc4bf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ba15166e2a52249fb871$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ba15166e2a52249fb871.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ba15166e2a52249fb871.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c61a2049c16ff8574d2d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c61a2049c16ff8574d2d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c61a2049c16ff8574d2d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c61a2049c16ff8574d2d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$efc2e2e30f3e218f11fc$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$efc2e2e30f3e218f11fc.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$efc2e2e30f3e218f11fc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1533e8a77c703a6d15ac$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1533e8a77c703a6d15ac$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1533e8a77c703a6d15ac.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1533e8a77c703a6d15ac.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15bc7ecf67ece78693f4$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15bc7ecf67ece78693f4$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15bc7ecf67ece78693f4.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$15bc7ecf67ece78693f4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$236dc94fa745404fd724$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$236dc94fa745404fd724$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$236dc94fa745404fd724.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$236dc94fa745404fd724.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2c416a989bf1a5eaa734$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2c416a989bf1a5eaa734$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2c416a989bf1a5eaa734.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2c416a989bf1a5eaa734.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$30c4d292c34dd41ddc65$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$30c4d292c34dd41ddc65$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$30c4d292c34dd41ddc65.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$30c4d292c34dd41ddc65.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3e0ef2e14a164dba4a6e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3e0ef2e14a164dba4a6e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3e0ef2e14a164dba4a6e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3e0ef2e14a164dba4a6e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$752f8b5609e80af820af$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$752f8b5609e80af820af$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$752f8b5609e80af820af.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$752f8b5609e80af820af.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7f94e123760abaed71b3$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7f94e123760abaed71b3$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7f94e123760abaed71b3.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7f94e123760abaed71b3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$88c1d52db802e52440c5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$88c1d52db802e52440c5$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$88c1d52db802e52440c5.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$88c1d52db802e52440c5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b2a1017446927f988af$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b2a1017446927f988af$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b2a1017446927f988af.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8b2a1017446927f988af.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ef682481b523243ed154$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ef682481b523243ed154$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ef682481b523243ed154.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ef682481b523243ed154.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/wikipedia/test.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 1/Recursion | Coursera.webarchive" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 2/Functional Sets | Coursera.webarchive" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 3/Object-Oriented Sets | Coursera.webarchive" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 4/Huffman Coding | Coursera.webarchive" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 5/Anagrams | Coursera.webarchive" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../neural-networks-for-machine-learning/assignments/Final Exam | Coursera.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12$$anonfun$apply$10.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$12$$anonfun$apply$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$$anonfun$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$$anonfun$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$$anonfun$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$$anonfun$4.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$$anonfun$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/WikipediaRanking$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/wikipedia/WikipediaSuite.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/wikipedia/WikipediaSuite.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/wikipedia-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/wikipedia-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/wikipedia-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/wikipedia-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-wikipedia-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala" afterPath="$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/test.sc" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/wikipedia/test.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
-    </list>
+    <list default="true" id="28e6a63c-6b7d-4d39-9796-ef8e220a79e2" name="Default" comment="completed Wikipedia" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -186,7 +39,7 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="285">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -196,8 +49,8 @@
       <file leaf-file-name="WikipediaRanking.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="99" column="51" lean-forward="false" selection-start-line="99" selection-start-column="51" selection-end-line="99" selection-end-column="51" />
+            <state relative-caret-position="488">
+              <caret line="102" column="55" lean-forward="false" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
               <folding>
                 <element signature="e#19#52#0" expanded="true" />
               </folding>
@@ -208,7 +61,7 @@
       <file leaf-file-name="WikipediaSuite.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/wikipedia/WikipediaSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2546">
+            <state relative-caret-position="165">
               <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
@@ -262,10 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,14 +151,6 @@
               <item name="bigdata-wikipedia" type="b2602c69:ProjectViewProjectNode" />
               <item name="wikipedia" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="wikipedia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-wikipedia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wikipedia" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -329,6 +172,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -533,12 +378,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$USER_HOME$/IdeaProjects/Example" value="1483023922000" />
         <entry key="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 1/recfun" value="1462343930000" />
         <entry key="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 2/funsets" value="1462291040000" />
         <entry key="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 3/objsets" value="1462294046000" />
         <entry key="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 4/patmat" value="1462351264000" />
         <entry key="$PROJECT_DIR$/../../../functional-programming-principles-in-scala/Assignment 5/forcomp" value="1462288012000" />
+        <entry key="$USER_HOME$/IdeaProjects/Example" value="1483023922000" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -570,36 +415,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="42" y="23" width="1398" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.46041667" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.5052083" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.49479166" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.49479166" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19825707" sideWeight="0.49115044" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19762845" sideWeight="0.49115044" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18854167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19100295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44008714" sideWeight="0.49479166" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.46041667" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.49479166" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -620,6 +466,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" column="51" lean-forward="false" selection-start-line="99" selection-start-column="51" selection-end-line="99" selection-end-column="51" />
+          <folding>
+            <element signature="e#19#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
@@ -630,18 +494,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/test.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/test.sc" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -664,18 +520,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/test.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="2" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/test.sc" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -715,14 +563,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment.sbt" />
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
@@ -732,21 +579,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/test.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/test.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/scala/wikipedia/WikipediaSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2546">
+        <state relative-caret-position="165">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
@@ -754,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/wikipedia/WikipediaRanking.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="99" column="51" lean-forward="false" selection-start-line="99" selection-start-column="51" selection-end-line="99" selection-end-column="51" />
+        <state relative-caret-position="488">
+          <caret line="102" column="55" lean-forward="false" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
           <folding>
             <element signature="e#19#52#0" expanded="true" />
           </folding>
