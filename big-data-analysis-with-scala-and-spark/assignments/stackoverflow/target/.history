@@ -1,2 +1,9 @@
 ;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/03/pf2zpxds7b7d1m__b0wy12gw0000gn/T/sbt-structure.xml
 test
+all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/stackoverflow/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/stackoverflow/}root/test:products
+test
+console
+test
+all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/stackoverflow/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/stackoverflow/}root/test:products
+submit
+submit liangyuanruo@gmail.com Tl4HHAJrPxLSTOM9
