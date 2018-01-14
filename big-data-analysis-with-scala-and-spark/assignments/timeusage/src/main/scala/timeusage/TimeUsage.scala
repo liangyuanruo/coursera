@@ -62,15 +62,20 @@ object TimeUsage {
     *         have type Double. None of the fields are nullable.
     * @param columnNames Column names of the DataFrame
     */
-  def dfSchema(columnNames: List[String]): StructType =
-    ???
+  def dfSchema(columnNames: List[String]): StructType = {
+    StructType(
+      StructField(columnNames.head, StringType, nullable = false) ::
+        columnNames.tail.map(col => StructField(col, DoubleType, nullable = false))
+    )
+  }
 
 
   /** @return An RDD Row compatible with the schema produced by `dfSchema`
     * @param line Raw fields
     */
-  def row(line: List[String]): Row =
-    ???
+  def row(line: List[String]): Row = {
+    Row( line.head :: line.tail.map(field => field.toDouble) )
+  }
 
   /** @return The initial data frame columns partitioned in three groups: primary needs (sleeping, eating, etc.),
     *         work and other (leisure activities)
@@ -88,7 +93,22 @@ object TimeUsage {
     *    “t10”, “t12”, “t13”, “t14”, “t15”, “t16” and “t18” (those which are not part of the previous groups only).
     */
   def classifiedColumns(columnNames: List[String]): (List[Column], List[Column], List[Column]) = {
-    ???
+
+    def classifiedColumnsHelper(columnNames: List[String], prefixes: List[String]): List[Column] = {
+      for{
+        name <- columnNames
+        if prefixes.exists(prefix => name.startsWith(prefix))
+      } yield col(name)
+    }
+
+    val primary = classifiedColumnsHelper(columnNames, List("t01","t03","t11","t1801","t1803"))
+
+    val working = classifiedColumnsHelper(columnNames, List("t05","t1805"))
+
+    val leisure = classifiedColumnsHelper(columnNames,
+      List("t02","t04","t06","t07","t08","t09","t10","t12","t13","t14","t15","t16","t18"))
+
+    (primary, working, leisure)
   }
 
   /** @return a projection of the initial DataFrame such that all columns containing hours spent on primary needs
