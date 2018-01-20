@@ -5807,7 +5807,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.5!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1787ms :: artifacts dl 40ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1062ms :: artifacts dl 32ms[0m
 [0m[[0mdebug[0m] [0m	report for default#timeusage-build;0.1-SNAPSHOT compile produced in /Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/project/target/resolution-cache/reports/default-timeusage-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#timeusage-build;0.1-SNAPSHOT runtime produced in /Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/project/target/resolution-cache/reports/default-timeusage-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#timeusage-build;0.1-SNAPSHOT test produced in /Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/project/target/resolution-cache/reports/default-timeusage-build-test.xml[0m
@@ -5821,5 +5821,5 @@
 [0m[[0mdebug[0m] [0m	report for default#timeusage-build;0.1-SNAPSHOT docs produced in /Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/project/target/resolution-cache/reports/default-timeusage-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#timeusage-build;0.1-SNAPSHOT pom produced in /Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/project/target/resolution-cache/reports/default-timeusage-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#timeusage-build;0.1-SNAPSHOT scala-tool produced in /Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/project/target/resolution-cache/reports/default-timeusage-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1787ms resolve - 40ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1062ms resolve - 32ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

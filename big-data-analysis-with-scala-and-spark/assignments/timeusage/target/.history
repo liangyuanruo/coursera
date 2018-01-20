@@ -2,3 +2,16 @@
 all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/test:products
 test
 all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/test:products
+run
+all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/test:products
+submit liangyuanruo@gmail.com 9nKx8b4Mp3BM37u3
+run
+submit liangyuanruo@gmail.com 9nKx8b4Mp3BM37u3
+all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/test:products
+submit liangyuanruo@gmail.com LbMTyGeRpjKfm3JN
+run
+build
+run
+submit liangyuanruo@gmail.com LbMTyGeRpjKfm3JN
+all {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/products {file:/Users/yuanruoliang/Developer/coursera/big-data-analysis-with-scala-and-spark/assignments/timeusage/}root/test:products
+submit liangyuanruo@gmail.com LbMTyGeRpjKfm3JN
